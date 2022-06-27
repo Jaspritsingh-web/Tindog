@@ -1,0 +1,3 @@
+ This is the responsive project which is made by using HTML,CSS,JS,Bootstrap5
+ which is for a hypothetical start up called Tindog
+ which contains  many cool features like carousal, accordian ,cards etc
